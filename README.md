@@ -1,7 +1,6 @@
 # Coca - toolbox for system refactoring and analysis
 
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/phodal/coca)
-[![Maintainability](https://api.codeclimate.com/v1/badges/d5a5e060522403b1f79b/maintainability)](https://codeclimate.com/github/phodal/coca/maintainability)
 [![codecov](https://codecov.io/gh/modernizing/coca/branch/master/graph/badge.svg)](https://codecov.io/gh/modernizing/coca)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/phodal/coca)
 [![Build](https://github.com/phodal/coca/actions/workflows/go.yml/badge.svg)](https://github.com/phodal/coca/actions/workflows/go.yml)
